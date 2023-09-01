@@ -32,7 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Portifólio é um app para exibir o perfi profissional do usuário, bem como contatos e link a projetos github.
+Portifólio é um app para exibir o perfi profissional do usuário, bem como contatos e link a projetos github.<br>
+Contem uma certa responsividade em teste, e consumo da api do github.
 
 -[Visite o projeto online](https://celo-gomes.github.io/rkt-port)
 
