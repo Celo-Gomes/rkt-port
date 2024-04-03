@@ -12,7 +12,7 @@ function getRepos(){
                 console.log(data)
                 console.log(data[0].name)
                 console.log(data[0].description)
-                console.log(data[4].topics)
+                console.log(data[0].topics)
 
                 data.forEach(datas => { 
                     let res = document.querySelector('article')
